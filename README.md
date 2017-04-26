@@ -1,6 +1,6 @@
 # npmdoc-gifsicle
 
-#### api documentation for  [gifsicle (v3.0.4)](https://github.com/imagemin/gifsicle-bin#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-gifsicle.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gifsicle) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gifsicle.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gifsicle)
+#### basic api documentation for  [gifsicle (v3.0.4)](https://github.com/imagemin/gifsicle-bin#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-gifsicle.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gifsicle) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gifsicle.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gifsicle)
 
 #### gifsicle wrapper that makes it seamlessly available as a local dependency
 
